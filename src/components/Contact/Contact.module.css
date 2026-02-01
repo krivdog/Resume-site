@@ -1,0 +1,19 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.links {
+	display: flex;
+	gap: 12px;
+	flex-wrap: wrap;
+}
+
+.btn {
+	padding: 8px 12px;
+	border-radius: 8px;
+	background: var(--accent);
+	color: #fff;
+	text-decoration: none;
+}

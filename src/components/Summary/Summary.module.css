@@ -1,0 +1,10 @@
+.container {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.text {
+    color: var(--muted);
+    line-height: 1.6;
+}

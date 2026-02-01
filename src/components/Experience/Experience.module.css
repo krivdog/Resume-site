@@ -1,0 +1,23 @@
+.job {
+	background: var(--card);
+	padding: 18px;
+	border-radius: 10px;
+	margin-bottom: 12px;
+}
+
+.meta {
+	display: flex;
+	gap: 8px;
+	color: var(--muted);
+	font-size: 14px;
+}
+
+.role {
+	font-weight: 600;
+}
+
+.desc {
+	margin-top: 10px;
+	color: var(--muted);
+	line-height: 1.6;
+}
