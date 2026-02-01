@@ -1,0 +1,5 @@
+node_modules/
+build/
+.DS_Store
+.env
+Brandon_Krivitz_Resume_2025.md

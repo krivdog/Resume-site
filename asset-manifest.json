@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krivdog/resume-website/static/css/main.ddd570e2.css",
+    "main.js": "/krivdog/resume-website/static/js/main.0853fcc1.js",
+    "index.html": "/krivdog/resume-website/index.html",
+    "main.ddd570e2.css.map": "/krivdog/resume-website/static/css/main.ddd570e2.css.map",
+    "main.0853fcc1.js.map": "/krivdog/resume-website/static/js/main.0853fcc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd570e2.css",
+    "static/js/main.0853fcc1.js"
+  ]
+}
