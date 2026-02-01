@@ -1,0 +1,21 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+}
+
+.chip {
+	background: var(--glass);
+	padding: 8px 12px;
+	border-radius: 999px;
+	color: var(--text);
+	font-weight: 500;
+}
+
+.group {
+	margin-bottom: 14px;
+}
+
+.group h3 {
+	margin: 6px 0;
+}
